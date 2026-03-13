@@ -1,49 +1,27 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0E1621&text=Bonjour!&height=110&section=header&fontColor=EFEFEF&fontSize=40"/>
-</p>
-
-<h1 align="center">Clara Huet</h1>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&weight=600&size=32&pause=1000&color=00D4AA&background=F1FF0000&width=600&height=60&lines=Ex-p%C3%A2tissi%C3%A8re+%E2%86%92+Full-stack+dev+%F0%9F%8D%B0%EF%B8%8F;Java+Spring+Boot+%7C+Symfonyt+%7C+Th%C3%A9+en+main+%E2%9C%A8" />
-</div>
-
----
-
-### 🍰 **Qui suis-je ?**
-Ex-pâtissière → full-stack dev | Java/Spring Boot, Symfony | Mes repos (TP + projets concrets) tracent ma progression joyeuse en équipe !
-
-- 💼 **Formation** : Développeuse Web/Mobile à l'ENI Rennes (Bac+2 en cours)
-- 🔍 **Stage recherché** : *20 avril → 12 juin 2026* (2 mois)
-- 📧 **Contact** : [clarahuet35@outlook.fr](mailto:clarahuet35@outlook.fr)
-- 📍 **Bretagne** (près de Rennes)
-
----
-
-### 🛠️ **Mes compétences**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,php,symfony,js,html,css,git,vscode,figma,mysql" />
-</p>
-
----
-
-### 📊 **Stats GitHub** 
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Clara939&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&text_color=000&bg_color=0E1621&icon_color=00D4AA&theme=transparent" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clara939&hide_title=true&hide_border=true&layout=compact&langs_count=8&text_color=000&bg_color=0E1621&icon_color=00D4AA&theme=transparent" />
-</div>
-
----
-
-### 🌐 **Me suivre**
-<p align="center">
-  <a href="https://www.linkedin.com/in/clara-huet-"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn" /></a>
-  <!-- Ajoute ton portfolio ici plus tard -->
-  <a href="https://github.com/Clara939?tab=repositories"><img src="https://img.shields.io/badge/Projets-00D4AA?logo=github&logoColor=black&style=flat-square" alt="Projets" /></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0E1621&height=100&section=footer&fontColor=EFEFEF"/>
-</p>
+<h1>Clara HUET</h1>
+<p>Ex-pâtissière → full-stack dev</p>
+<h2>🚀 Languages and Tools I Use</h2>
+<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="42" height="42" /></a>
+<a target="_blank" href="https://angular.io/assets/images/logos/angular/angular.svg" style="display: inline-block;"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="42" height="42" /></a>
+<a target="_blank" href="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" style="display: inline-block;"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="42" height="42" /></a>
+<a target="_blank" href="https://symfony.com/logos/symfony_black_03.svg" style="display: inline-block;"><img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
+<h2>✒️ Recent Posts</h2>
+<ul>
+<li><a target="_blank" href=""></a></li>
+<h2>⚡️ Where to find me</h2>
+<p><a target="_blank" href="https://www.linkedin.com/in/www.linkedin.com/in/clara-huet-" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Clara939&show_icons=true&locale=en" alt="Clara939" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Clara939&show_icons=true&locale=en&layout=compact" alt="Clara939" /></p>
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Clara939" alt="Clara939" /></a></p>
