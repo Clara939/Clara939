@@ -7,8 +7,7 @@
 <h1 align="center" style="color:#6D6875;">Clara HUET</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&weight=600&size=28&pause=1000&color=E5989B&background=F1FF0000&width=700&height=60&lines=Ex-p%C3%A2tissi%C3%A8re+devenue+full-stack+dev+%F0%9F%8D%B0;Java+Spring+Boot+%7C+Symfony+%7C+Progression+joyeuse+%F0%9F%8E%89" />
-</div>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&weight=600&size=28&pause=1000&color=E5989B&background=F1FF0000&width=700&height=60&lines=Ex-p%C3%A2tissi%C3%A8re+devenue+full-stack+dev+%F0%9F%8D%B0;Java+Spring+Boot+%7C+Symfony+%7C+%C3%89quipe+%26+fun+%F0%9F%A4%B9" />
 
 ---
 
